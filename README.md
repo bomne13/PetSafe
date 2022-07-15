@@ -1,3 +1,5 @@
+<p align="center"><img src="./images/title.png" width="200px" height="100px"></p>
+
 # PetSafe
 ### 반려동물 케어를 도와주는 APP & WEB🐶
 기사를 보다보면 집안에서 일어나는 화재사고의 원인이 반려동물로 인해 종종 일어난다는 사실을 확인할 수 있었습니다.<br>
@@ -5,9 +7,9 @@
 
 [📃Noction](https://www.notion.so/bomne13/PET-SAFE-1c2cd7e4761543a9bc83b820987220e6)
 
-## Team Member
+## Member
 Name|Role&Commit
 ---|---|
-정은혜|📌 [Role]()<br>📃 [Commit Log]()|
-안승연|📌 [Role]()<br>📃 [Commit Log]()|
-유민우|📌 [Role]()<br>📃 [Commit Log]()|
+<img src="./images/Girl1.png" width="90px" height="100px"><p align="center">정은혜</p>|📌 [Role]()<br>📃 [Commit Log]()|
+<img src="./images/Girl2.png" width="90px" height="100px"><p align="center">안승연</p>|📌 [Role]()<br>📃 [Commit Log]()|
+<img src="./images/man.png" width="90px" height="100px"><p align="center">유민우</p>|📌 [Role]()<br>📃 [Commit Log]()|
